@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Complaint</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="login">Login</string>
+    <string name="i_have_no_account">I have no account</string>
+    <string name="registration">Registration</string>
+    <string name="enter_confirm_password">Enter confrim password</string>
+    <string name="submit">Submit</string>
+    <string name="dashboard">User Dashboard</string>
+</resources>
